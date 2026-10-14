@@ -63,8 +63,11 @@ Then open `http://localhost:8080`.
 
 ## Grading scale used
 - A: 80–100
+- B+: 75–79
 - B: 70–79
+- C+: 65–69
 - C: 60–69
+- D+: 55–59
 - D: 50–59
 - F: 0–49
 
