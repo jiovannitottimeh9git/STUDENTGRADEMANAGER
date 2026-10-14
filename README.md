@@ -68,7 +68,7 @@ Then open `http://localhost:8080`.
 - C+: 65–69
 - C: 60–69
 - D+: 55–59
-- D: 50–59
+- D: 50–55
 - F: 0–49
 
 This is an example grading scale for the project. Change the Java arrays in `src/StudentGradeServer.java` if your course uses a different scale.
